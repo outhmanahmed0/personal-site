@@ -1,0 +1,75 @@
+#one{
+    background-color: #F0F5F9;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    font-family: "IM Fell English SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.remo{
+    color: #8CB9BD;
+}
+
+.bbb{
+    color: #749BC2;
+}
+
+
+p{
+    font-family: "Cambo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+      
+
+
+.photo{
+    border-radius: 50%;
+}
+
+
+.jalal{
+    border: dotted black ;
+    width: 15%;
+    display: inline-flex;
+}
+
+
+.skills{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+
+
+.grid{
+    display: grid;
+    grid-template-rows: 1fr auto;
+    grid-template-columns: 250px 500px;
+    gap: 5px;
+    justify-content: center;
+}
+
+.alazzawi{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+
+#five{
+    background-color: #52616B;
+    color: white;
+}   
+
